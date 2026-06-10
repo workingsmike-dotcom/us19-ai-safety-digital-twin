@@ -1,0 +1,8 @@
+streamlit
+geopandas
+pandas
+pydeck
+scikit-learn
+shapely
+fiona
+pyproj
