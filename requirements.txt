@@ -1,8 +1,8 @@
 streamlit
-geopandas
 pandas
 pydeck
 scikit-learn
+geopandas
+pyogrio
 shapely
-fiona
 pyproj
